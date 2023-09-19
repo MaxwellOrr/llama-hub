@@ -106,7 +106,7 @@
     "author": "yisding"
   },
   "JsonDataReader": {
-    "id": "JsonDataReader",
+    "id": "jsondata",
     "author": "yisding"
   },
   "MarkdownReader": {
