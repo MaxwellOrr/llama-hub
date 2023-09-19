@@ -105,7 +105,7 @@
     "id": "file/json",
     "author": "yisding"
   },
-  "JsonDataReader": {
+  "JSONDataReader": {
     "id": "jsondata",
     "author": "yisding"
   },
@@ -485,6 +485,7 @@
     "id": "gmail",
     "author": "bbornsztein",
     "keywords": [
+
       "gmail",
       "email"
     ]
