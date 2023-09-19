@@ -105,6 +105,9 @@
     "id": "file/json",
     "author": "yisding"
   },
+  "JsonDataReader": {
+    "author": "yisding"
+  },
   "MarkdownReader": {
     "id": "file/markdown",
     "author": "hursh-desai"
